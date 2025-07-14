@@ -1,0 +1,7 @@
+Flask
+pdfplumber
+python-docx
+Werkzeug
+fpdf
+langchain
+langchain-groq
